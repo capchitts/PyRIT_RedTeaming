@@ -1,0 +1,4 @@
+pyrit
+python-dotenv
+nest_asyncio
+gradio
